@@ -3,6 +3,7 @@
 - this is my notes for Coding Challenges of Processing from https://thecodingtrain.com/CodingChallenges/
 
 ### 1. Starfield
+##### 12/27/18 3:28 PM
 - how to create 3D illusion in a 2D space with `z`?
 - key concept: far items are smaller; far items move slower
     
