@@ -62,3 +62,16 @@
 ### 11. 3D terrain generation with Perlin noise (Processing)
 - Perlin noise: random smooth number 
 	- `noise(x,y)` as `z` value
+
+### 12.  Lorenz Attractor (Processing)
+- differential equation(s) 
+
+### 13.  Reaction Diffusion Algorithm (p5.js)
+- http://www.karlsims.com/rd.html
+- convolution 
+- grid & next grid (swap)
+	- show color based percentage of cell A & B 
+	- **Laplacian** function (gradient & divergence)
+
+### 14. Fractal Tree
+- 
