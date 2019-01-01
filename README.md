@@ -73,5 +73,22 @@
 	- show color based percentage of cell A & B 
 	- **Laplacian** function (gradient & divergence)
 
-### 14. Fractal Tree
-- 
+### 14 -18 . Fractal Tree (p5.js)
+##### 14
+- recursion: push/pop matrix + rotation/transition
+##### 15
+- OOP + loop (`Branch` objects), specify result (i.e. leaf on certain branch)
+##### 16 L system 
+- **[L system](https://en.wikipedia.org/wiki/L-system)** : recursion
+	- Alphabets
+	- Axiom
+	- Produce Rules
+- Turtle graphics , `resetMatrix()`
+##### 17 Space Colonization
+- (I skipped it because i have watched to many fractal tree lol)
+##### 18 3D
+
+### 19. Superellipse
+- http://paulbourke.net/geometry/supershape/
+- use parameters to describe complex shape
+
